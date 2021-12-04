@@ -1,4 +1,4 @@
-# Minicurso de Análise de Dados com Python para cinetista social
+# Minicurso de Análise de Dados com Python para cientista social
 Ministrado na IX Semana de Ciências Sociais da UNIVASF
 
 Sobre o Evento: O Colegiado de Ciências Sociais, da Universidade Federal do Vale do São Francisco (UNIVASF), convida toda comunidade acadêmica para participar das atividades que irão compor a programação de sua tradicional Semana de Ciências Sociais, que este ano está em sua nona edição. O evento será realizado de maneira virtual, entre os dias 24 e 26 de novembro, e traz como tema o papel das ciências sociais na contemporaneidade, considerando o contexto brasileiro de crise das instituições democráticas e da ciência. No evento, teremos a oportunidade de discutir as contribuições desse específico domínio do conhecimento para a compreensão dos fenômenos recentes e as possibilidades de transformação social, bem como os desafios com os quais os pesquisadores têm se deparado.
